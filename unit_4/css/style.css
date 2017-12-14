@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash|Pacifico');
+body{
+	background-color: #ccc;
+	font-family: 'New Roman';
+}
+h1 {
+	font-size: 18px;
+	color: #0058e8;
+	font-weight: bold;
+}
+
+p{
+	font-size: 16px;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+ul{
+	margin-left: 2px;
+	list-style-type: none;
+}
+
+li{
+	font-size: 14px;
+}
+
+img{
+	width: 200px;
+}
+
+a{
+	text-decoration: underline;
+}
+.paragraph1{
+	font-family:  Pacifico;
+}
+.paragraph2{
+	font-family: Swash;
+}
+#slogan {
+	font-style: italic;
+}
