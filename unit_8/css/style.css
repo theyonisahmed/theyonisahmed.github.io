@@ -1,0 +1,23 @@
+body{
+	background-color: #FFE2B8;
+	font-size: 1em;
+	text-align: center;
+	margin: auto;
+}
+.container {
+	width: 100%;
+
+}
+.holder {
+	width: 80%;
+	margin: auto;
+}
+header {
+	width: 100%;
+	background-color: #f900e5;
+	display: block;
+	height: 100px;
+}
+.content {
+	width: 100%;
+}
